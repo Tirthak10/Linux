@@ -234,13 +234,6 @@ To deeply understand a command and its advanced usage.
 | `Ctrl + L`             | Clear the screen                         |
 | `Ctrl + Shift + T`     | Open new terminal tab (GUI terminals)    |
 
----
-
-## 🙋‍♂️ Author
-
-**Tirthak Likhar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/tirthak-likhar-8808a8255/)  
-💻 [GitHub](https://github.com/)
 
 ---
 
@@ -668,3 +661,13 @@ else
         ping -c 1 $1.$ip | grep "64 bytes" | cut -d " " -f 4 | tr -d ":" &
     done
 fi
+
+```
+---
+## 🙋‍♂️ Author
+
+**Tirthak Likhar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tirthak-likhar-8808a8255/)  
+💻 [GitHub](https://github.com/)
+
+---
